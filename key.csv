@@ -1,0 +1,86 @@
+raw,desc,question_text,responses
+ResponseId,id,NA,NA
+LocationLatitude,est_lat,NA,NA
+LocationLongitude,est_lon,NA,NA
+Q4,age,Qual a sua idade?,numeric
+Q5,sex_respondent,Qual o seu sexo?,1: Masculino; 2: Feminino; 3: Não Binário; 4: Prefiro Não Responder
+Q6,state,Em qual estado você reside?,"Acre (1), Alagoas (2), Amapá (3), Amazonas (4), Bahia (5), Ceará (6), Distrito Federal (7), Espírito Santo (8), Goiás (9), Maranhão (10), Mato Grosso (11), Mato Grosso do Sul (12), Minas Gerais (13), Pará (14), Paraíba (15), Paraná (16), Pernambuco (17), Piauí (18), Rio de Janeiro (19), Rio Grande do Norte (20), Rio Grande do Sul (21), Rondônia (22), Roraima (23), Santa Catarina (24), São Paulo (25), Sergipe (26), Tocatins (27)"
+Q7,income,"Somando toda a renda mensal dos membros da sua família que moram com você, qual seria a sua renda mensal?","Até 2 salários mínimos (até R$ 2.200) (1), De 2 a 4 salários mínimos (de R$ 2.200 a R$ 4.400) (2), De 4 a 10 salários mínimos (de R$ 4.400 a R$ 11.000) (3), De 10 a 20 salários mínimos (de R$ 11.000 a R$ 22.000) (4), Acima de 20 salários mínimos (mais de R$ 22.000) (5), Prefiro não responder (6)"
+Q8_1,trust_civpol,Em que medida você confia nas seguintes instituições? (Polícia Civil),Likert 1-5: Desconfío Totalmente - Confío Totalmente
+Q8_2,trust_milpol,Em que medida você confia nas seguintes instituições? (Polícia Militar),Likert 1-5: Desconfío Totalmente - Confío Totalmente
+Q8_3,trust_congress,Em que medida você confia nas seguintes instituições? (Congresso Nacional),Likert 1-5: Desconfío Totalmente - Confío Totalmente
+Q8_4,trust_minpub,Em que medida você confia nas seguintes instituições? (Ministério Público),Likert 1-5: Desconfío Totalmente - Confío Totalmente
+Q8_5,trust_mayor,Em que medida você confia nas seguintes instituições? (Prefeito(a) da sua cidade),Likert 1-5: Desconfío Totalmente - Confío Totalmente
+Q8_6,trust_vereadores,Em que medida você confia nas seguintes instituições? (Câmara de Vereadores da sua cidade),Likert 1-5: Desconfío Totalmente - Confío Totalmente
+Q8_7,trust_army,Em que medida você confia nas seguintes instituições? (Forças Armadas),Likert 1-5: Desconfío Totalmente - Confío Totalmente
+Q11,choice_1,Qual a chance de você apoiar esse(a) candidato(a)?,Likert 1-5: Extremamente provável - Extremamente improvável (inverted in cleaned_factorial_frame.csv)
+Q12_1,sec_1,Quão efetivo você acha que o(a) candidato(a) seria nos seguintes temas: Segurança Pública,Likert 1-5: Nada efeitivo - Extremamente efeitivo
+Q12_2,corrup_1,Quão efetivo você acha que o(a) candidato(a) seria nos seguintes temas: Corrupção,Likert 1-5: Nada efeitivo - Extremamente efeitivo
+Q12_3,emp_1,Quão efetivo você acha que o(a) candidato(a) seria nos seguintes temas: Desemprego,Likert 1-5: Nada efeitivo - Extremamente efeitivo
+Q14,choice_2,Qual a chance de você apoiar esse(a) candidato(a)?,Likert 1-5: Extremamente provável - Extremamente improvável (inverted in cleaned_factorial_frame.csv)
+Q15_1,sec_2,Quão efetivo você acha que o(a) candidato(a) seria nos seguintes temas: Segurança Pública,Likert 1-5: Nada efeitivo - Extremamente efeitivo
+Q15_2,corrup_2,Quão efetivo você acha que o(a) candidato(a) seria nos seguintes temas: Corrupção,Likert 1-5: Nada efeitivo - Extremamente efeitivo
+Q15_3,emp_2,Quão efetivo você acha que o(a) candidato(a) seria nos seguintes temas: Desemprego,Likert 1-5: Nada efeitivo - Extremamente efeitivo
+Q17,choice_3,Qual a chance de você apoiar esse(a) candidato(a)?,Likert 1-5: Extremamente provável - Extremamente improvável (inverted in cleaned_factorial_frame.csv)
+Q18_1,sec_3,Quão efetivo você acha que o(a) candidato(a) seria nos seguintes temas: Segurança Pública,Likert 1-5: Nada efeitivo - Extremamente efeitivo
+Q18_2,corrup_3,Quão efetivo você acha que o(a) candidato(a) seria nos seguintes temas: Corrupção,Likert 1-5: Nada efeitivo - Extremamente efeitivo
+Q18_3,emp_3,Quão efetivo você acha que o(a) candidato(a) seria nos seguintes temas: Desemprego,Likert 1-5: Nada efeitivo - Extremamente efeitivo
+Q19_1,legit_1,"Agora gostaríamos de fazer alguma perguntas sobre segurança pública. Em que medida você concorda com as seguintes frases: Quando a polícia lida com pessoas, ela sempre se comporta de acordo com a lei",Likert 1-5: Discordo totalmente - Concordo totalmente
+Q19_2,legit_2,Agora gostaríamos de fazer alguma perguntas sobre segurança pública. Em que medida você concorda com as seguintes frases: A polícia trata os cidadãos com respeito,Likert 1-5: Discordo totalmente - Concordo totalmente
+Q19_3,legit_3,Agora gostaríamos de fazer alguma perguntas sobre segurança pública. Em que medida você concorda com as seguintes frases: Os níveis de criminalidade no meu bairro melhoraram no último ano,Likert 1-5: Discordo totalmente - Concordo totalmente
+Q19_4,legit_4,Agora gostaríamos de fazer alguma perguntas sobre segurança pública. Em que medida você concorda com as seguintes frases: Eu me sinto seguro(a) à noite no meu bairro,Likert 1-5: Discordo totalmente - Concordo totalmente
+Q19_5,legit_5,Agora gostaríamos de fazer alguma perguntas sobre segurança pública. Em que medida você concorda com as seguintes frases: A polícia assegura que os cidadãos recebem o que merecem aos olhos da lei,Likert 1-5: Discordo totalmente - Concordo totalmente
+Q20_1,contact_civpol,"Nos últimos seis meses, com que frequência você teve contato com os seguintes grupos: Polícia Civil","(1-5): Nunca, Uma Vez, Mensalmente, Semenalmente, Diariamente"
+Q20_2,contact_milpol,"Nos últimos seis meses, com que frequência você teve contato com os seguintes grupos: Polícia Militar","(1-5): Nunca, Uma Vez, Mensalmente, Semenalmente, Diariamente"
+Q20_3,contact_guarda,"Nos últimos seis meses, com que frequência você teve contato com os seguintes grupos: Guardas Municipais","(1-5): Nunca, Uma Vez, Mensalmente, Semenalmente, Diariamente"
+Q20_4,contact_saude,"Nos últimos seis meses, com que frequência você teve contato com os seguintes grupos: Agentes de Saúde Pública","(1-5): Nunca, Uma Vez, Mensalmente, Semenalmente, Diariamente"
+Q20_5,contact_educ,"Nos últimos seis meses, com que frequência você teve contato com os seguintes grupos: Professores de escolas públicas","(1-5): Nunca, Uma Vez, Mensalmente, Semenalmente, Diariamente"
+Q21,crime_victim,"Nos últimos seis meses, com que frequência você ou membro de sua família teve algum pertence roubado?","(1-5): Nunca, Uma Vez, Duas ou Três Vezes, De Três a Cinco Vezes, Mais de Cinco Vezes"
+Q26_1,problem_corruption,São muitos os problemas que o povo brasileiro enfrenta hoje. Por favor classifique os seguintes problemas do mais importante (1) ao menos importante (5): Corrupção,Ranking 1-5
+Q26_2,problem_health,São muitos os problemas que o povo brasileiro enfrenta hoje. Por favor classifique os seguintes problemas do mais importante (1) ao menos importante (5): Saúde Pública,Ranking 1-6
+Q26_3,problem_security,São muitos os problemas que o povo brasileiro enfrenta hoje. Por favor classifique os seguintes problemas do mais importante (1) ao menos importante (5): Segurança Pública,Ranking 1-7
+Q26_4,problem_inequality,São muitos os problemas que o povo brasileiro enfrenta hoje. Por favor classifique os seguintes problemas do mais importante (1) ao menos importante (5): Desigualdades,Ranking 1-8
+Q26_5,problem_unemployment,São muitos os problemas que o povo brasileiro enfrenta hoje. Por favor classifique os seguintes problemas do mais importante (1) ao menos importante (5): Desemprego,Ranking 1-9
+Q27,problem_other,Existem outros problemas nacionais que você incluiria?,text entry
+Q28,covid_eval,"Na sua opinião, como as prefeituras estão lidando com a pandemia do Covid-19?",Likert 1-5: Muito mal - Muito bem
+Q29,covid_contact,Quantas pessoas que você conhece faleceram ou foram hospitalizadas por causa da Covid-19?,numeric
+Q30_1,ideology_self,"Na política, às vezes as pessoas falam em ""esquerda"" e ""direita."" Onde você acha que as seguintes pessoas estariam numa escala de 1 a 7, sendo que 1 significa esquerda e 7 direita?: Você",1 (Muito esquerda) - 7 (Muito direita)
+Q30_2,ideology_mayor,"Na política, às vezes as pessoas falam em ""esquerda"" e ""direita."" Onde você acha que as seguintes pessoas estariam numa escala de 1 a 7, sendo que 1 significa esquerda e 7 direita?: O Prefeito da sua cidade (para moradores do DF, considere o governador)",1 (Muito esquerda) - 7 (Muito direita)
+Q30_3,ideology_president,"Na política, às vezes as pessoas falam em ""esquerda"" e ""direita."" Onde você acha que as seguintes pessoas estariam numa escala de 1 a 7, sendo que 1 significa esquerda e 7 direita?: O Presidente do Brasil",1 (Muito esquerda) - 7 (Muito direita)
+Q31,vote,"Se o voto não fosse obrigatório, com que frequência você votaria?","Eu nunca votaria (1), Eu votaria apenas quando houvesse um candidato que eu prefira fortemente (2), Eu sempre votaria (3)"
+Q32,pres_vote_2018,Em qual candidato você votou no primeiro turno da última eleição presidencial?,"Jair Bolsonaro (PSL) (1), Fernando Haddad (PT) (2), Ciro Gomes (PDT) (3), Geraldo Alckmin (PSDB) (4), João Amoêdo (NOVO) (5), Cabo Daciolo (PATRI) (6), Henrique Meirelles (MDB) (7), Marina Silva (REDE) (8), Branco ou nulo (9), Prefiro não responder (10), Outro (11)"
+Q33,party_mayor,Qual o partido do prefeito da sua cidade?,"MDB (1), PP (2), PSD (3), PSDB (4), DEM (5), PL (6), PDT (7), PSB (8), PTB (9), Republicanos (10), PT (11), PSL (12), Podemos (13), PSOL (14), Solidariedade (15), Outro (16), Não sei (17)"
+Q34,party_self,Com qual partido você mais se identifica?,"PT (1), PSDB (2), DEM (3), MDB (4), PP (5), PSD (6), PL (7), PSL (8), Podemos (9), PSOL (10), Solidariedade (11), PDT (12), PSB (13), PTB (14), Republicanos (15), Nenhum (16), Outro (17)"
+Q35_1,auth_1,"Agora gostaríamos de fazer algumas perguntas sobre você. Apesar de existirem várias qualidades que as pessoas acreditam que crianças devem possuir, cada pessoa acha algumas qualidades mais importantes do que outras. Abaixo estão quatro pares de qualidades desejáveis. Por favor escolha qual qualidade é mais importante para uma criança:",Respeito aos idosos (1) Independência (2)
+Q35_2,auth_2,"Agora gostaríamos de fazer algumas perguntas sobre você. Apesar de existirem várias qualidades que as pessoas acreditam que crianças devem possuir, cada pessoa acha algumas qualidades mais importantes do que outras. Abaixo estão quatro pares de qualidades desejáveis. Por favor escolha qual qualidade é mais importante para uma criança:",Autossuficiência (1) Obediência (2)
+Q35_3,auth_3,"Agora gostaríamos de fazer algumas perguntas sobre você. Apesar de existirem várias qualidades que as pessoas acreditam que crianças devem possuir, cada pessoa acha algumas qualidades mais importantes do que outras. Abaixo estão quatro pares de qualidades desejáveis. Por favor escolha qual qualidade é mais importante para uma criança:",Boas maneira (1) Curiosidade (2)
+Q35_4,auth_4,"Agora gostaríamos de fazer algumas perguntas sobre você. Apesar de existirem várias qualidades que as pessoas acreditam que crianças devem possuir, cada pessoa acha algumas qualidades mais importantes do que outras. Abaixo estão quatro pares de qualidades desejáveis. Por favor escolha qual qualidade é mais importante para uma criança:",Ser atencioso (1) Ser bem-comportado (2)
+Q36,religion,Qual a sua religião?,"Não pertenço a nenhum religião (1), Católico (2), Evangélico (3), Judeu (4), Espírita (5), Umbanda, Candomblé ou outras religiões afto-brasileiras (6), Ateu (7), Outra religião (8)"
+Q37,race_respondent,Com qual raça você se identifica?,"Branco (1), Indígena (2), Negro (3), Pardo (4), Asiático (5), Outro (6)"
+Q38,city,Em que cidade você reside?,text entry
+Q39,cep,Qual o seu CEP?,text entry
+Q40,urban,Você descreveria sua cidade como majoritariamente...,Rural (1) Urbana (2)
+Q41,education,Qual foi o curso de nível mais elevado que você concluiu?,
+mobile,mobile,NA,NA
+race_1,race_1,NA,NA
+race_2,race_2,NA,NA
+race_3,race_3,NA,NA
+sex_1,sex_1,NA,NA
+sex_2,sex_2,NA,NA
+sex_3,sex_3,NA,NA
+prof_1,prof_1,NA,NA
+prof_2,prof_2,NA,NA
+prof_3,prof_3,NA,NA
+slogan_1,slogan_1,NA,NA
+slogan_2,slogan_2,NA,NA
+slogan_3,slogan_3,NA,NA
+politician_1,politician_1,NA,NA
+politician_2,politician_2,NA,NA
+politician_3,politician_3,NA,NA
+econ_1,econ_1,NA,NA
+econ_2,econ_2,NA,NA
+econ_3,econ_3,NA,NA
+name_1,name_1,NA,NA
+name_2,name_2,NA,NA
+name_3,name_3,NA,NA
+age_bracket,age_bracket,Recoding of age,NA

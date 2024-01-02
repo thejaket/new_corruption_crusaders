@@ -1,5 +1,5 @@
 ## The New Corruption Crudaders Replication
-Replication data for "The new corruption crusaders: Security sector ties 2 as an anti-corruption voting heuristic"
+Replication data for "The new corruption crusaders: Security sector ties as an anti-corruption voting heuristic"
 
 Vilaça L and Turner JR (2024). The new corruption crusaders: Security sector ties as an anti-corruption
 voting heuristic. Latin American Politics and Society. https://doi.org/10.1017/lap.2023.39

@@ -4,8 +4,6 @@ Replication data for "The new corruption crusaders: Security sector ties as an a
 Vilaça L and Turner JR (2024). The new corruption crusaders: Security sector ties as an anti-corruption
 voting heuristic. Latin American Politics and Society. https://doi.org/10.1017/lap.2023.39
 
-Article forthcoming in LAPS, contact Jacob Turner jturne13@nd.edu for draft copy.
-
 ### Files
 The repository contains the following files:
 
